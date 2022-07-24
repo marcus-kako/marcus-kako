@@ -1,6 +1,7 @@
 ## <div align=center>Hey whats up? I'm Marcus, welcome to my profile :tada:</div>
 
 **Who am I?** 👨🏻‍🚀  *Again, my name is Marcus, but also known as Kako, I'm 21 years old, I live in the city of Wagner, in the interior of Bahia, Brazil.*
+    <br/>
     Currently studying at Trybe Programming School,
     I learned to develop projects that range from a simple "Hello World" basic with JavaScript, HTML and CSS,
      to an amazing Full-Stack project using React.Js and Relational Databases like MySQL and non-Relational Databases like MongoDB.
