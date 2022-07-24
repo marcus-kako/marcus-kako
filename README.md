@@ -14,7 +14,7 @@
 <br/>
 <div align=right>
 <a href="https://www.linkedin.com/in/marcus-kako/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width=90px></a> 
-<a href = "markosf.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width=72px></a>
+<a href = "mailto:markosf.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width=72px></a>
 </div>  
 
 ---
