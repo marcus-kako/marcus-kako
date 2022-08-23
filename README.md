@@ -1,6 +1,6 @@
 ## <div align=center>Hey whats up? I'm Marcus, welcome to my profile :tada:</div>
 
-**Who am I?** 👨🏻‍🚀  *Again, my name is Marcus, but also known as Kako, I'm 21 years old, I live in the city of Wagner, in the interior of Bahia, Brazil.*
+**Who am I?** 👨🏻‍🚀  *Again, my name is Marcus, but also known as Kako, I'm 22 years old, I live in the city of Wagner, in the interior of Bahia, Brazil.*
     <br/>
     :technologist: Currently studying at Trybe Programming School,
     I learned to develop projects that range from a simple "Hello World" basic with JavaScript, HTML and CSS,
