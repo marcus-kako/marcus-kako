@@ -48,5 +48,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=35px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=35px />
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=88909590)
